@@ -1,221 +1,346 @@
 {
-    "tags": [
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "React",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Backbone",
-            "amountOfVideos": 189
-        },
-        {
-            "title": "Ember",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "Svelte",
-            "amountOfVideos": 215
-        },
-        {
-            "title": "Angular",
-            "amountOfVideos": 78
-        },
-        {
-            "title": "Vue",
-            "amountOfVideos": 142
-        }
-                        
-    ]
+  "tags": [
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "97af"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "313a"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "afc3"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "7cf4"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "4eb7"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "8779"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "c8f6"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "4416"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "e6bf"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "f6d6"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "ad80"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "bff6"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "f4c7"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "59b2"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "b376"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "bfb9"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "4caf"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "506a"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "4eb9"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "a7ea"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "63b2"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "a867"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "26b5"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "cdd0"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "e54f"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "face"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "1a43"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "87a6"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "c148"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "e97f"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "e8f1"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "62a2"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "4cd7"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "d499"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "10f8"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "e745"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "c570"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "ea1a"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "931e"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "5405"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "7b29"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "b170"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "d09e"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "1d28"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "cb8a"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "1d86"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "9d17"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "d090"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "256e"
+    },
+    {
+      "title": "Backbone",
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "fb41"
+    },
+    {
+      "title": "Ember",
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "94b0"
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 215,
+      "id": "c31e"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "1e7f"
+    },
+    {
+      "title": "Vue",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "dd39"
+    },
+    {
+      "id": "58b0",
+      "title": "edson",
+      "slug": "edson",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "a966",
+      "title": "exe",
+      "slug": "exe",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "013c",
+      "title": "sadadad",
+      "slug": "sadadad",
+      "amountOfVideos": 0
+    }
+  ]
 }

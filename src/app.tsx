@@ -23,6 +23,7 @@ export interface TagResponse {
 
 export interface Tag {
   title: string
+  slug: string
   amountOfVideos: number
   id: string
 }
@@ -42,7 +43,6 @@ export function App() {
       const response = await fetch(`http://localhost:3333/tags?_page=${page}&_per_page=10&title=${urlFilter}`)
       const data = await response.json()
 
-      console.log(data)
       return data
     },
     placeholderData: keepPreviousData,
@@ -93,6 +93,7 @@ export function App() {
                     </Dialog.Description>
                   </div>
                   <CreateTagForm/>
+
                   <Dialog.Close />
                 </Dialog.Content>
             </Dialog.Portal>
@@ -141,7 +142,7 @@ export function App() {
                   <TableCell>
                     <div className='flex flex-col gap-0.5'>
                       <span className='font-medium'>{tag.title}</span>
-                      <span className='text-xs text-zinc-500'>{tag.id}</span>
+                      <span className='text-xs text-zinc-500'>{tag.slug}</span>
                     </div>
                   </TableCell>
     
